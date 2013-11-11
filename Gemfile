@@ -48,11 +48,13 @@ end
 
 group :test do
   gem 'capybara', '1.1.2'
-end
+gem 'factory_girl_rails', '4.1.0'
+  end
 
 group :development do
   gem 'annotate', '2.5.0'
 end
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
