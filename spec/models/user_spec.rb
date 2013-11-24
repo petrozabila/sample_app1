@@ -106,4 +106,4 @@ describe "when email format is invalid" do
     end
   end
 end
-end
+
